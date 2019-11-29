@@ -6,4 +6,4 @@ git clone + el link del repositorio, para clonarlo.
 git add más el archivo para añadir los cambios al repositorio.
 git commit -m "" , dejando así el archivo con su respectiva  descripción.
  Y por último git push donde si ya tienes la clave SSH no te vuelven a pedir usuario y contraseña en la consola de GitBash.
-	Finalicé el trabajo con este archivo .txt donde justifico mi proceso. Confio en que lo haya hecho bien.  
+	Finalicé el trabajo con este archivo .txt donde justifico mi proceso. Este archivo pasó el mismo proceso que el .html para subirlo a GitHub.Tarde en hacerlo todo cerca de 15 minutos. Confio en que era lo que pedian y que lo haya hecho bien.  
