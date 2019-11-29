@@ -1,0 +1,9 @@
+	Empecé con crear el repositorio en mi perfil de GitHub, con el  nombre y descripción corespondiente, seguido
+del archivo html en la carpeta que se me creó "HVL-HTML-P2a". Trabajé el archivo html en SublimeTex 3 y lo hice de la siguiente manera.
+  Cree el formato básio de una página web - en title le puse el mismo nombre del repositorio - y en body puse la etiqueta <p> que copié y pegue otras 4 veces cambiandole el texto que contenian. 
+  Dentro de la carpeta que contenia el archivo .html abrí el GitBash y usé los siguientes comandos.
+git clone + el link del repositorio, para clonarlo.
+git add más el archivo para añadir los cambios al repositorio.
+git commit -m "" , dejando así el archivo con su respectiva  descripción.
+ Y por último git push donde si ya tienes la clave SSH no te vuelven a pedir usuario y contraseña en la consola de GitBash.
+	Finalicé el trabajo con este archivo .txt donde justifico mi proceso. Confio en que lo haya hecho bien.  
